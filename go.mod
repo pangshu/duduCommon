@@ -1,4 +1,4 @@
-module dudu-common
+module duduCommon
 
 go 1.12
 
